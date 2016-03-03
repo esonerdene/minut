@@ -1,4 +1,4 @@
-Keystone Demo
+Keystone Demo1
 =============
 
 This site is an example of a default [Keystone](http://keystonejs.com) application.
