@@ -1,0 +1,15 @@
+doctype
+html
+  head
+    title #{title} - My Site
+    link(rel='stylesheet', href='/styles/style.css')
+  body
+    header
+      include partial/header
+    .container
+      .main-content
+        block content
+      .sidebar
+        block sidebar
+    footer
+      include partial/footer
